@@ -32,7 +32,7 @@ Other examples:
 </div>
 
 ### Feature 2: Facial Recognition
-I now  make use of a facial recognition package which involves sub-processes:
+I now  make use of the `face_encoding` package which involves sub-processes:
 - Facial Encoding: Facial encoding in the context of facial recognition technology refers to the process of converting facial features from an image into a numerical representation, often called a "facial signature" or "facial feature vector." This process is central to modern facial recognition systems, especially those using machine learning and artificial intelligence.
 
 - Facial encoding starts with detecting and extracting key features from a face in an image. These features typically include elements like the eyes, nose, mouth, jawline, and other distinguishing characteristics.
