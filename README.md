@@ -61,3 +61,7 @@ The `face_landmarks` package in the `facial recognition` library provides us wit
 </div>
 
 
+## Conclusion:
+There are several other important and innovative technologies in the field of computer vision which in today's world has immense scope and worth diving deep into. `Do not stop looking!`
+
+
