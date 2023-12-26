@@ -5,5 +5,9 @@ Being a curious tech buff as I am, I was very drawn to Computer Vision and the v
 
 This package has several use cases one of them being FacialRecognition.
 
-Id like to explain the steps that I undertook while working on this project. 
+I'd like to explain the steps that I undertook while working on this project. 
+
+Firstly, 
+
+123
 
