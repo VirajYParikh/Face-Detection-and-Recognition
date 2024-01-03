@@ -1,4 +1,4 @@
-# Open CV Facial Detection, and Recognition
+# Open CV Facial Detection and Recognition
 Basic Implementation of Face Detection and Facial Recognition along with some use of Facial Landmarks
 
 Being a curious tech buff as I am, I was very drawn to Computer Vision and the various applications it has. I came across a very interesting Python library: OpenCV
